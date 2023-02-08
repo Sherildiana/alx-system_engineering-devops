@@ -9,4 +9,4 @@
 8-firstdelete Delete the file betty
 9-firstdirdeletion /tmp/my_first_directory
 10-back changes the working directory to the previous one
-
+11-lists ll files lists all files in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
